@@ -1,7 +1,0 @@
-
-
-number_inicial = 10
-
-while number_inicial > 0:
-    print(number_inicial)
-    number_inicial -= 1
